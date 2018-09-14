@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.caterpillar.wreckitrampage",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "wreckItRampage",
+    "packageName": "com.caterpillar.wreckitrampage",
+    "packageFolder": "com/caterpillar/wreckitrampage",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "Yjk3MDIwODljNzZhNzMzMjA3Y2YwZWVkZWI2MzhkYTg2Mzg3YjRlMGY0YTBlNDY0YTFlNjE2YjEyMWExZDI4MWZlNmM1NTExYWE2ZjlkODExODdjZmEwZmFhOWFhYmU2YmVlODdlMGM4MzJlOTYyODdjNmMxZGUwNmY3ODdlOWQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
